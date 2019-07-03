@@ -2,6 +2,7 @@
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fabirw%2Fbeautiful-jekyll.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fabirw%2Fbeautiful-jekyll?ref=badge_shield)
 
 > *Copyright 2018 [Dean Attali](https://deanattali.com)*
 
@@ -301,3 +302,7 @@ If you do fork or clone this project to use as a template for your site, I would
 ## Known limitations
 
 - If you have a project page and you want a custom 404 page, you must have a custom domain.  See https://help.github.com/articles/custom-404-pages/.  This means that if you have a regular User Page you can use the 404 page from this theme, but if it's a website for a specific repository, the 404 page will not be used.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fabirw%2Fbeautiful-jekyll.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fabirw%2Fbeautiful-jekyll?ref=badge_large)
